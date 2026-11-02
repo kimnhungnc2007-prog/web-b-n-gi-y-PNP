@@ -94,6 +94,6 @@ for key, default in {
 st.markdown("""
 <div class="hero">
   <div class="kicker">MEN'S SNEAKERS • STREET CULTURE • EVERYDAY COMFORT</div>
-Bạn đã đạt giới hạn phân tích dữ liệu. Nâng cấp lên ChatGPT Plus hoặc thử lại ngày mai sau 22:59.
+
 
 
